@@ -1,0 +1,5 @@
+# Empêche de commit le fichier contenant des infos sensibles
+.env
+
+# Empêche de commit les fichiers de cache Python
+__pycache__/
